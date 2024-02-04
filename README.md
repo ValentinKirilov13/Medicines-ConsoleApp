@@ -2,14 +2,8 @@
 
 Simple console app that operate with Database.
 
-</br>
+1.Deserialize json/xml files into DTO's and validate data.
 
-1.Deserialize json/xml files into dto's and validate data.
+2.Map DTO's with Database entities and upload them into Database.
 
-</br>
-
-2.Map dto's with Database entities and upload them into Database.
-
-</br>
-
-3.Map Database entities with dto's and serialize them into json/xml files.
+3.Map Database entities with DTO's and serialize them into json/xml files.
