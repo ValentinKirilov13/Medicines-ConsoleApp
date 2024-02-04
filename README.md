@@ -1,6 +1,6 @@
 # Medicines Console application
 
-Simple console app that operate with database.
+Simple console app that operate with Database.
 
 </br>
 
